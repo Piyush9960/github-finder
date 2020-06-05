@@ -1,4 +1,4 @@
-#App is live @ https://github-finder-reactapplication.netlify.app/
+## App is live @ https://github-finder-reactapplication.netlify.app/
 
 ## App is in React.js
 
