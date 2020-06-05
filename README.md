@@ -1,3 +1,7 @@
+#App is live @ https://github-finder-reactapplication.netlify.app/
+
+## App is in React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
